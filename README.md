@@ -1,1 +1,1 @@
-## Journey into Data Scisnce begins!!
+## Journey into Data Science begins!!
